@@ -1,0 +1,501 @@
+merchant_id,name,category,region,commission_rate,establishment_date
+M00001,DigitalHub 2,Electronics,Nouvelle-Aquitaine,0.0143,20220918
+M00002,FoodMart 3,Food,Normandie,0.0913,20191105
+M00003,CarParts 4,Automotive,Auvergne-Rhône-Alpes,0.0786,20221229
+M00004,GardenWorld 5,Home & Garden,Grand Est,0.0775,20191208
+M00005,KidsWorld 6,Toys,Grand Est,0.0404,20190403
+M00006,ToyLand 7,Toys,Auvergne-Rhône-Alpes,0.0629,20211004
+M00007,DecorShop 8,Home & Garden,Pays de la Loire,0.0182,20211230
+M00008,HomeCenter 9,Home & Garden,Nouvelle-Aquitaine,0.0836,20200203
+M00009,DecorShop 10,Home & Garden,Normandie,0.058,20220515
+M00010,LibraryShop 11,Books,Occitanie,0.0838,20210309
+M00011,ElectroWorld 12,Electronics,Provence-Alpes-Côte d'Azur,0.0493,20210331
+M00012,GadgetShop 13,Electronics,Hauts-de-France,0.0522,20220220
+M00013,ToyHub 14,Toys,Nouvelle-Aquitaine,0.081,20211022
+M00014,CarParts 15,Automotive,Nouvelle-Aquitaine,0.0261,20220501
+M00015,CarParts 16,Automotive,Bretagne,0.0107,20211016
+M00016,BookCorner 17,Books,Normandie,0.0614,20191109
+M00017,ToyHub 18,Toys,Provence-Alpes-Côte d'Azur,0.0327,20191203
+M00018,HealthShop 19,Health,Grand Est,0.0918,20181225
+M00019,TrendyWear 20,Clothing,Nouvelle-Aquitaine,0.0803,20210415
+M00020,ClothingHub 21,Clothing,Auvergne-Rhône-Alpes,0.0672,20180819
+M00021,HomeCenter 22,Home & Garden,Pays de la Loire,0.0704,20200506
+M00022,GardenWorld 23,Home & Garden,Pays de la Loire,0.0456,20220914
+M00023,LibraryShop 24,Books,Normandie,0.098,20210706
+M00024,CarParts 25,Automotive,Ile-de-France,0.0978,20180521
+M00025,WellnessStore 26,Health,Provence-Alpes-Côte d'Azur,0.0981,20181127
+M00026,ReadMore 27,Books,Auvergne-Rhône-Alpes,0.0399,20190730
+M00027,TechStore 28,Electronics,Normandie,0.0457,20220607
+M00028,ReadMore 29,Books,Bretagne,0.0226,20180619
+M00029,HealthHub 30,Health,Nouvelle-Aquitaine,0.0329,20200110
+M00030,FoodHub 31,Food,Normandie,0.041,20180126
+M00031,DigitalHub 32,Electronics,Nouvelle-Aquitaine,0.0373,20201019
+M00032,BookHaven 33,Books,Nouvelle-Aquitaine,0.0601,20180731
+M00033,HomeStyle 34,Home & Garden,Nouvelle-Aquitaine,0.09,20210422
+M00034,KidsWorld 35,Toys,Bretagne,0.085,20190421
+M00035,GardenWorld 36,Home & Garden,Ile-de-France,0.0846,20200305
+M00036,BookHaven 37,Books,Provence-Alpes-Côte d'Azur,0.0693,20210126
+M00037,ReadMore 38,Books,Hauts-de-France,0.0281,20221225
+M00038,LibraryShop 39,Books,Bretagne,0.0782,20210819
+M00039,BeautyWorld 40,Beauty,Pays de la Loire,0.0794,20210417
+M00040,ReadMore 41,Books,Ile-de-France,0.0244,20220101
+M00041,ToyHub 42,Toys,Normandie,0.0788,20210319
+M00042,FreshMarket 43,Food,Hauts-de-France,0.0216,20210126
+M00043,ToyLand 44,Toys,Pays de la Loire,0.0638,20210924
+M00044,VitalShop 45,Health,Occitanie,0.0748,20191210
+M00045,AutoShop 46,Automotive,Auvergne-Rhône-Alpes,0.0567,20191218
+M00046,SportZone 47,Sports,Hauts-de-France,0.0477,20220329
+M00047,ActiveWear 48,Sports,Normandie,0.0215,20181010
+M00048,StyleShop 49,Clothing,Bretagne,0.0534,20201112
+M00049,KidsWorld 50,Toys,Nouvelle-Aquitaine,0.0971,20180410
+M00050,CarParts 51,Automotive,Provence-Alpes-Côte d'Azur,0.0361,20191107
+M00051,ActiveWear 52,Sports,Pays de la Loire,0.0364,20190827
+M00052,TrendyWear 53,Clothing,Pays de la Loire,0.0491,20200930
+M00053,MotorHub 54,Automotive,Occitanie,0.0337,20200414
+M00054,BookHaven 55,Books,Bretagne,0.0436,20210326
+M00055,BeautyCorner 56,Beauty,Bretagne,0.0332,20190105
+M00056,KidsWorld 57,Toys,Auvergne-Rhône-Alpes,0.0245,20230101
+M00057,FoodHub 58,Food,Normandie,0.049,20210121
+M00058,TechStore 59,Electronics,Nouvelle-Aquitaine,0.0258,20200627
+M00059,FreshMarket 60,Food,Provence-Alpes-Côte d'Azur,0.0894,20200502
+M00060,FoodMart 61,Food,Bretagne,0.0573,20181120
+M00061,HealthHub 62,Health,Bretagne,0.0838,20210319
+M00062,GourmetShop 63,Food,Occitanie,0.0818,20210712
+M00063,MotorHub 64,Automotive,Normandie,0.0514,20181120
+M00064,FreshMarket 65,Food,Provence-Alpes-Côte d'Azur,0.0338,20181017
+M00065,ReadMore 66,Books,Auvergne-Rhône-Alpes,0.0898,20180815
+M00066,PlayShop 67,Toys,Occitanie,0.0473,20201211
+M00067,WellnessStore 68,Health,Normandie,0.0296,20200421
+M00068,AutoShop 69,Automotive,Occitanie,0.0406,20210412
+M00069,GadgetShop 70,Electronics,Hauts-de-France,0.0754,20210511
+M00070,FreshMarket 71,Food,Ile-de-France,0.0679,20220922
+M00071,DigitalHub 72,Electronics,Pays de la Loire,0.0445,20210815
+M00072,SportHub 73,Sports,Grand Est,0.0584,20180502
+M00073,DigitalHub 74,Electronics,Ile-de-France,0.0114,20180531
+M00074,DecorShop 75,Home & Garden,Occitanie,0.0827,20211207
+M00075,FreshMarket 76,Food,Hauts-de-France,0.0514,20220703
+M00076,DigitalHub 77,Electronics,Pays de la Loire,0.0846,20220208
+M00077,StyleShop 78,Clothing,Ile-de-France,0.0269,20200410
+M00078,BookHaven 79,Books,Ile-de-France,0.094,20221101
+M00079,SportZone 80,Sports,Pays de la Loire,0.0726,20220608
+M00080,MotorHub 81,Automotive,Bretagne,0.0163,20180703
+M00081,FoodMart 82,Food,Normandie,0.0481,20200406
+M00082,PlayShop 83,Toys,Pays de la Loire,0.0475,20201020
+M00083,FitnessShop 84,Sports,Normandie,0.0709,20211123
+M00084,DigitalHub 85,Electronics,Ile-de-France,0.0998,20210916
+M00085,CarParts 86,Automotive,Nouvelle-Aquitaine,0.0736,20180311
+M00086,ActiveWear 87,Sports,Auvergne-Rhône-Alpes,0.0831,20191204
+M00087,DecorShop 88,Home & Garden,Nouvelle-Aquitaine,0.0443,20181206
+M00088,FashionStore 89,Clothing,Grand Est,0.0111,20181011
+M00089,DecorShop 90,Home & Garden,Bretagne,0.0957,20190623
+M00090,FashionStore 91,Clothing,Pays de la Loire,0.0895,20220901
+M00091,ReadMore 92,Books,Bretagne,0.0335,20191123
+M00092,BookHaven 93,Books,Normandie,0.0131,20220527
+M00093,ToyHub 94,Toys,Pays de la Loire,0.0715,20201208
+M00094,GadgetShop 95,Electronics,Ile-de-France,0.024,20210219
+M00095,LibraryShop 96,Books,Hauts-de-France,0.0817,20190215
+M00096,PlayShop 97,Toys,Ile-de-France,0.0735,20200806
+M00097,TechStore 98,Electronics,Nouvelle-Aquitaine,0.0307,20220205
+M00098,BookCorner 99,Books,Bretagne,0.0891,20200922
+M00099,FashionStore 100,Clothing,Ile-de-France,0.0175,20200308
+M00100,StyleShop 1,Clothing,Occitanie,0.0367,20190302
+M00101,CosmeticHub 2,Beauty,Pays de la Loire,0.0365,20200506
+M00102,GadgetShop 3,Electronics,Grand Est,0.0685,20210513
+M00103,ToyLand 4,Toys,Occitanie,0.0198,20181207
+M00104,GlowShop 5,Beauty,Auvergne-Rhône-Alpes,0.0106,20181212
+M00105,TechStore 6,Electronics,Occitanie,0.0305,20220312
+M00106,FreshMarket 7,Food,Auvergne-Rhône-Alpes,0.0823,20200224
+M00107,GourmetShop 8,Food,Ile-de-France,0.04,20190822
+M00108,WellnessStore 9,Health,Grand Est,0.0529,20220617
+M00109,WellnessStore 10,Health,Pays de la Loire,0.0564,20191109
+M00110,HomeCenter 11,Home & Garden,Nouvelle-Aquitaine,0.0958,20200308
+M00111,SportZone 12,Sports,Provence-Alpes-Côte d'Azur,0.0687,20200505
+M00112,DigitalHub 13,Electronics,Pays de la Loire,0.0766,20200720
+M00113,DigitalHub 14,Electronics,Provence-Alpes-Côte d'Azur,0.0185,20190507
+M00114,AutoCenter 15,Automotive,Auvergne-Rhône-Alpes,0.0203,20201211
+M00115,DigitalHub 16,Electronics,Grand Est,0.0975,20220115
+M00116,GadgetShop 17,Electronics,Provence-Alpes-Côte d'Azur,0.0706,20190318
+M00117,HomeStyle 18,Home & Garden,Occitanie,0.0892,20181101
+M00118,SportHub 19,Sports,Pays de la Loire,0.0616,20221013
+M00119,CosmeticHub 20,Beauty,Provence-Alpes-Côte d'Azur,0.0947,20210630
+M00120,HealthHub 21,Health,Normandie,0.0177,20210709
+M00121,DigitalHub 22,Electronics,Auvergne-Rhône-Alpes,0.067,20191117
+M00122,VitalShop 23,Health,Occitanie,0.0871,20191216
+M00123,BookHaven 24,Books,Hauts-de-France,0.0515,20190503
+M00124,LibraryShop 25,Books,Grand Est,0.0708,20220118
+M00125,ToyHub 26,Toys,Pays de la Loire,0.0338,20211203
+M00126,AutoShop 27,Automotive,Pays de la Loire,0.0738,20181204
+M00127,GlowShop 28,Beauty,Auvergne-Rhône-Alpes,0.0692,20200313
+M00128,ActiveWear 29,Sports,Auvergne-Rhône-Alpes,0.0352,20221027
+M00129,FitnessShop 30,Sports,Bretagne,0.0529,20220207
+M00130,KidsWorld 31,Toys,Auvergne-Rhône-Alpes,0.0237,20200417
+M00131,BeautyCorner 32,Beauty,Grand Est,0.0154,20200304
+M00132,TrendyWear 33,Clothing,Normandie,0.0652,20200525
+M00133,TechStore 34,Electronics,Ile-de-France,0.0896,20211213
+M00134,ActiveWear 35,Sports,Grand Est,0.0382,20180721
+M00135,MotorHub 36,Automotive,Provence-Alpes-Côte d'Azur,0.0853,20180331
+M00136,FoodHub 37,Food,Hauts-de-France,0.0412,20191221
+M00137,ToyLand 38,Toys,Nouvelle-Aquitaine,0.0344,20190815
+M00138,BeautyCorner 39,Beauty,Pays de la Loire,0.0585,20180521
+M00139,BeautyCorner 40,Beauty,Hauts-de-France,0.0489,20180523
+M00140,GadgetShop 41,Electronics,Normandie,0.0226,20200819
+M00141,TechStore 42,Electronics,Bretagne,0.0678,20210410
+M00142,WellnessStore 43,Health,Bretagne,0.0225,20221129
+M00143,CosmeticHub 44,Beauty,Provence-Alpes-Côte d'Azur,0.0755,20200424
+M00144,TechStore 45,Electronics,Auvergne-Rhône-Alpes,0.0589,20180821
+M00145,GardenWorld 46,Home & Garden,Occitanie,0.0178,20211128
+M00146,FashionStore 47,Clothing,Grand Est,0.0231,20190422
+M00147,StyleShop 48,Clothing,Grand Est,0.0662,20200112
+M00148,TrendyWear 49,Clothing,Normandie,0.0635,20201030
+M00149,FitnessShop 50,Sports,Ile-de-France,0.0974,20211215
+M00150,BookCorner 51,Books,Occitanie,0.0552,20211202
+M00151,TrendyWear 52,Clothing,Normandie,0.0477,20221030
+M00152,GardenWorld 53,Home & Garden,Hauts-de-France,0.0123,20200702
+M00153,StyleShop 54,Clothing,Ile-de-France,0.0733,20180807
+M00154,DigitalHub 55,Electronics,Occitanie,0.0834,20191215
+M00155,ActiveWear 56,Sports,Provence-Alpes-Côte d'Azur,0.0635,20210605
+M00156,CosmeticHub 57,Beauty,Auvergne-Rhône-Alpes,0.0156,20181119
+M00157,SportZone 58,Sports,Ile-de-France,0.0552,20200102
+M00158,ToyLand 59,Toys,Occitanie,0.0939,20210130
+M00159,DigitalHub 60,Electronics,Occitanie,0.0304,20200818
+M00160,HomeCenter 61,Home & Garden,Normandie,0.0663,20181001
+M00161,CosmeticHub 62,Beauty,Normandie,0.0559,20220731
+M00162,ActiveWear 63,Sports,Nouvelle-Aquitaine,0.0341,20220612
+M00163,CosmeticHub 64,Beauty,Grand Est,0.0537,20220830
+M00164,CarParts 65,Automotive,Grand Est,0.0938,20201011
+M00165,ToyLand 66,Toys,Occitanie,0.0177,20221203
+M00166,WellnessStore 67,Health,Nouvelle-Aquitaine,0.0818,20200109
+M00167,FoodHub 68,Food,Occitanie,0.0268,20211111
+M00168,VitalShop 69,Health,Bretagne,0.0866,20191207
+M00169,BookHaven 70,Books,Ile-de-France,0.044,20220706
+M00170,ClothingHub 71,Clothing,Occitanie,0.0535,20210211
+M00171,HomeStyle 72,Home & Garden,Occitanie,0.0686,20200817
+M00172,GourmetShop 73,Food,Bretagne,0.0544,20180925
+M00173,VitalShop 74,Health,Nouvelle-Aquitaine,0.013,20221221
+M00174,DecorShop 75,Home & Garden,Nouvelle-Aquitaine,0.0403,20190906
+M00175,SportHub 76,Sports,Auvergne-Rhône-Alpes,0.0594,20190911
+M00176,BeautyCorner 77,Beauty,Nouvelle-Aquitaine,0.022,20180713
+M00177,CarParts 78,Automotive,Ile-de-France,0.0236,20220822
+M00178,HomeCenter 79,Home & Garden,Bretagne,0.0468,20210628
+M00179,TrendyWear 80,Clothing,Auvergne-Rhône-Alpes,0.0226,20180816
+M00180,ToyLand 81,Toys,Normandie,0.0311,20210822
+M00181,FitnessShop 82,Sports,Normandie,0.0877,20210213
+M00182,LibraryShop 83,Books,Bretagne,0.0486,20210223
+M00183,ActiveWear 84,Sports,Ile-de-France,0.0293,20180406
+M00184,ToyHub 85,Toys,Auvergne-Rhône-Alpes,0.0922,20220929
+M00185,TechStore 86,Electronics,Pays de la Loire,0.0286,20210831
+M00186,BeautyCorner 87,Beauty,Ile-de-France,0.0178,20221121
+M00187,ActiveWear 88,Sports,Ile-de-France,0.0852,20200410
+M00188,GardenWorld 89,Home & Garden,Pays de la Loire,0.085,20221112
+M00189,ToyLand 90,Toys,Ile-de-France,0.0415,20180315
+M00190,DecorShop 91,Home & Garden,Bretagne,0.0715,20210309
+M00191,DecorShop 92,Home & Garden,Bretagne,0.0395,20190309
+M00192,ElectroWorld 93,Electronics,Occitanie,0.0603,20190403
+M00193,CarParts 94,Automotive,Nouvelle-Aquitaine,0.0991,20180113
+M00194,GlowShop 95,Beauty,Occitanie,0.0296,20180509
+M00195,HomeCenter 96,Home & Garden,Normandie,0.086,20190327
+M00196,TrendyWear 97,Clothing,Provence-Alpes-Côte d'Azur,0.0515,20221012
+M00197,GardenWorld 98,Home & Garden,Provence-Alpes-Côte d'Azur,0.0337,20200918
+M00198,PlayShop 99,Toys,Grand Est,0.034,20220909
+M00199,ActiveWear 100,Sports,Normandie,0.0931,20190923
+M00200,HealthHub 1,Health,Bretagne,0.0186,20210722
+M00201,TechStore 2,Electronics,Auvergne-Rhône-Alpes,0.0506,20210720
+M00202,HomeCenter 3,Home & Garden,Normandie,0.0141,20210327
+M00203,MotorHub 4,Automotive,Occitanie,0.0917,20221109
+M00204,ToyHub 5,Toys,Hauts-de-France,0.0762,20201107
+M00205,BeautyWorld 6,Beauty,Grand Est,0.0934,20181111
+M00206,ClothingHub 7,Clothing,Normandie,0.019,20220712
+M00207,ActiveWear 8,Sports,Ile-de-France,0.0555,20180907
+M00208,GadgetShop 9,Electronics,Normandie,0.0615,20200612
+M00209,SportZone 10,Sports,Nouvelle-Aquitaine,0.0943,20200110
+M00210,FreshMarket 11,Food,Normandie,0.039,20211028
+M00211,ClothingHub 12,Clothing,Pays de la Loire,0.0714,20220919
+M00212,KidsWorld 13,Toys,Pays de la Loire,0.0776,20190116
+M00213,HomeStyle 14,Home & Garden,Pays de la Loire,0.0521,20180908
+M00214,LibraryShop 15,Books,Provence-Alpes-Côte d'Azur,0.082,20190911
+M00215,FreshMarket 16,Food,Pays de la Loire,0.0838,20210807
+M00216,AutoCenter 17,Automotive,Pays de la Loire,0.0389,20210910
+M00217,GadgetShop 18,Electronics,Pays de la Loire,0.0364,20201101
+M00218,LibraryShop 19,Books,Nouvelle-Aquitaine,0.0967,20200513
+M00219,HomeCenter 20,Home & Garden,Bretagne,0.0658,20220613
+M00220,FashionStore 21,Clothing,Pays de la Loire,0.0776,20200502
+M00221,FoodMart 22,Food,Occitanie,0.0605,20180918
+M00222,GlowShop 23,Beauty,Hauts-de-France,0.0919,20221224
+M00223,GardenWorld 24,Home & Garden,Occitanie,0.0768,20221213
+M00224,ReadMore 25,Books,Bretagne,0.0657,20190822
+M00225,MotorHub 26,Automotive,Auvergne-Rhône-Alpes,0.0798,20190526
+M00226,GourmetShop 27,Food,Nouvelle-Aquitaine,0.0778,20190103
+M00227,FoodHub 28,Food,Normandie,0.0922,20190119
+M00228,GadgetShop 29,Electronics,Normandie,0.0584,20180106
+M00229,AutoCenter 30,Automotive,Nouvelle-Aquitaine,0.047,20190406
+M00230,BeautyCorner 31,Beauty,Pays de la Loire,0.0678,20200120
+M00231,SportZone 32,Sports,Provence-Alpes-Côte d'Azur,0.0335,20190526
+M00232,GlowShop 33,Beauty,Ile-de-France,0.0252,20210907
+M00233,GourmetShop 34,Food,Auvergne-Rhône-Alpes,0.0749,20210227
+M00234,ReadMore 35,Books,Provence-Alpes-Côte d'Azur,0.0341,20200425
+M00235,CarParts 36,Automotive,Auvergne-Rhône-Alpes,0.0622,20220425
+M00236,ToyLand 37,Toys,Grand Est,0.0388,20221126
+M00237,ActiveWear 38,Sports,Grand Est,0.0855,20190804
+M00238,HomeStyle 39,Home & Garden,Pays de la Loire,0.0512,20180615
+M00239,HomeStyle 40,Home & Garden,Provence-Alpes-Côte d'Azur,0.0906,20200216
+M00240,BookCorner 41,Books,Hauts-de-France,0.0534,20211116
+M00241,BookCorner 42,Books,Normandie,0.0977,20190605
+M00242,BookHaven 43,Books,Occitanie,0.092,20180623
+M00243,FreshMarket 44,Food,Occitanie,0.0228,20180814
+M00244,TechStore 45,Electronics,Grand Est,0.0659,20220412
+M00245,DigitalHub 46,Electronics,Hauts-de-France,0.0522,20190329
+M00246,BeautyWorld 47,Beauty,Provence-Alpes-Côte d'Azur,0.0485,20180822
+M00247,CarParts 48,Automotive,Occitanie,0.0675,20220910
+M00248,CarParts 49,Automotive,Auvergne-Rhône-Alpes,0.0645,20221011
+M00249,FashionStore 50,Clothing,Nouvelle-Aquitaine,0.0669,20190226
+M00250,TechStore 51,Electronics,Hauts-de-France,0.0668,20210626
+M00251,GardenWorld 52,Home & Garden,Occitanie,0.0714,20191122
+M00252,GardenWorld 53,Home & Garden,Bretagne,0.0945,20200808
+M00253,KidsWorld 54,Toys,Occitanie,0.0352,20200419
+M00254,HomeStyle 55,Home & Garden,Bretagne,0.0425,20200306
+M00255,StyleShop 56,Clothing,Pays de la Loire,0.0596,20200923
+M00256,ActiveWear 57,Sports,Occitanie,0.0738,20221029
+M00257,StyleShop 58,Clothing,Bretagne,0.087,20210312
+M00258,FashionStore 59,Clothing,Bretagne,0.0656,20180522
+M00259,SportZone 60,Sports,Provence-Alpes-Côte d'Azur,0.0202,20201122
+M00260,ClothingHub 61,Clothing,Hauts-de-France,0.0281,20180318
+M00261,BeautyCorner 62,Beauty,Hauts-de-France,0.0256,20220101
+M00262,CarParts 63,Automotive,Grand Est,0.031,20190109
+M00263,CarParts 64,Automotive,Occitanie,0.0612,20180225
+M00264,StyleShop 65,Clothing,Pays de la Loire,0.0902,20211111
+M00265,GadgetShop 66,Electronics,Nouvelle-Aquitaine,0.0349,20220726
+M00266,SportHub 67,Sports,Pays de la Loire,0.087,20191215
+M00267,BeautyWorld 68,Beauty,Hauts-de-France,0.0564,20180810
+M00268,GadgetShop 69,Electronics,Normandie,0.0631,20200411
+M00269,AutoShop 70,Automotive,Nouvelle-Aquitaine,0.0656,20221206
+M00270,PlayShop 71,Toys,Provence-Alpes-Côte d'Azur,0.0495,20211108
+M00271,FreshMarket 72,Food,Ile-de-France,0.0851,20180428
+M00272,BookHaven 73,Books,Occitanie,0.0144,20200602
+M00273,DigitalHub 74,Electronics,Ile-de-France,0.0919,20210329
+M00274,TrendyWear 75,Clothing,Provence-Alpes-Côte d'Azur,0.0162,20190129
+M00275,MotorHub 76,Automotive,Auvergne-Rhône-Alpes,0.0236,20201013
+M00276,WellnessStore 77,Health,Nouvelle-Aquitaine,0.0144,20190306
+M00277,LibraryShop 78,Books,Nouvelle-Aquitaine,0.0998,20190207
+M00278,BookHaven 79,Books,Nouvelle-Aquitaine,0.0891,20220706
+M00279,BeautyCorner 80,Beauty,Occitanie,0.0952,20201209
+M00280,FitnessShop 81,Sports,Hauts-de-France,0.0922,20180517
+M00281,VitalShop 82,Health,Bretagne,0.0489,20180605
+M00282,TrendyWear 83,Clothing,Occitanie,0.0238,20181020
+M00283,AutoShop 84,Automotive,Grand Est,0.0482,20220311
+M00284,TechStore 85,Electronics,Bretagne,0.0813,20190126
+M00285,TrendyWear 86,Clothing,Occitanie,0.0939,20180801
+M00286,BeautyCorner 87,Beauty,Nouvelle-Aquitaine,0.0819,20201114
+M00287,AutoShop 88,Automotive,Pays de la Loire,0.099,20190304
+M00288,BookHaven 89,Books,Bretagne,0.0392,20210329
+M00289,DecorShop 90,Home & Garden,Normandie,0.0326,20220807
+M00290,VitalShop 91,Health,Ile-de-France,0.076,20201125
+M00291,PlayShop 92,Toys,Pays de la Loire,0.0612,20210601
+M00292,HealthHub 93,Health,Pays de la Loire,0.0385,20220129
+M00293,HealthHub 94,Health,Provence-Alpes-Côte d'Azur,0.0595,20190920
+M00294,TechStore 95,Electronics,Grand Est,0.0773,20200828
+M00295,BeautyCorner 96,Beauty,Bretagne,0.0973,20190927
+M00296,CosmeticHub 97,Beauty,Ile-de-France,0.0541,20220121
+M00297,GlowShop 98,Beauty,Hauts-de-France,0.0959,20220807
+M00298,BookHaven 99,Books,Hauts-de-France,0.0106,20210924
+M00299,WellnessStore 100,Health,Ile-de-France,0.022,20180609
+M00300,ReadMore 1,Books,Occitanie,0.085,20201111
+M00301,ElectroWorld 2,Electronics,Nouvelle-Aquitaine,0.0591,20201112
+M00302,LibraryShop 3,Books,Provence-Alpes-Côte d'Azur,0.0866,20200314
+M00303,CarParts 4,Automotive,Nouvelle-Aquitaine,0.0493,20190512
+M00304,HomeStyle 5,Home & Garden,Pays de la Loire,0.0426,20190305
+M00305,AutoShop 6,Automotive,Occitanie,0.0522,20210916
+M00306,GadgetShop 7,Electronics,Auvergne-Rhône-Alpes,0.0576,20190429
+M00307,ActiveWear 8,Sports,Bretagne,0.0602,20180608
+M00308,FreshMarket 9,Food,Bretagne,0.0703,20220808
+M00309,FashionStore 10,Clothing,Nouvelle-Aquitaine,0.0767,20190515
+M00310,VitalShop 11,Health,Hauts-de-France,0.0986,20180715
+M00311,BookCorner 12,Books,Normandie,0.0548,20220223
+M00312,HealthShop 13,Health,Occitanie,0.0472,20190901
+M00313,FashionStore 14,Clothing,Ile-de-France,0.0617,20210314
+M00314,TechStore 15,Electronics,Normandie,0.0131,20210904
+M00315,FoodMart 16,Food,Provence-Alpes-Côte d'Azur,0.0202,20200813
+M00316,FreshMarket 17,Food,Occitanie,0.0147,20190622
+M00317,FitnessShop 18,Sports,Occitanie,0.0929,20211013
+M00318,GourmetShop 19,Food,Auvergne-Rhône-Alpes,0.0296,20181201
+M00319,AutoCenter 20,Automotive,Nouvelle-Aquitaine,0.0392,20190217
+M00320,FitnessShop 21,Sports,Nouvelle-Aquitaine,0.0908,20200110
+M00321,PlayShop 22,Toys,Hauts-de-France,0.0473,20191025
+M00322,ToyHub 23,Toys,Bretagne,0.0833,20200715
+M00323,ReadMore 24,Books,Normandie,0.0439,20220131
+M00324,ActiveWear 25,Sports,Hauts-de-France,0.0758,20200910
+M00325,GlowShop 26,Beauty,Provence-Alpes-Côte d'Azur,0.0791,20200826
+M00326,HealthHub 27,Health,Bretagne,0.0269,20220503
+M00327,LibraryShop 28,Books,Hauts-de-France,0.0397,20180319
+M00328,FitnessShop 29,Sports,Auvergne-Rhône-Alpes,0.0334,20200105
+M00329,WellnessStore 30,Health,Ile-de-France,0.0186,20200914
+M00330,WellnessStore 31,Health,Normandie,0.0611,20180420
+M00331,FitnessShop 32,Sports,Hauts-de-France,0.0186,20201120
+M00332,FoodMart 33,Food,Pays de la Loire,0.0317,20201110
+M00333,HealthShop 34,Health,Hauts-de-France,0.0992,20201025
+M00334,WellnessStore 35,Health,Bretagne,0.0832,20200802
+M00335,StyleShop 36,Clothing,Bretagne,0.0787,20200531
+M00336,HomeStyle 37,Home & Garden,Pays de la Loire,0.0657,20220208
+M00337,ToyLand 38,Toys,Normandie,0.069,20181004
+M00338,HomeStyle 39,Home & Garden,Bretagne,0.0111,20220129
+M00339,CosmeticHub 40,Beauty,Hauts-de-France,0.0877,20190908
+M00340,TechStore 41,Electronics,Normandie,0.0131,20190129
+M00341,TrendyWear 42,Clothing,Hauts-de-France,0.0964,20191220
+M00342,KidsWorld 43,Toys,Provence-Alpes-Côte d'Azur,0.0989,20210213
+M00343,CarParts 44,Automotive,Hauts-de-France,0.0353,20210410
+M00344,LibraryShop 45,Books,Bretagne,0.0327,20221120
+M00345,AutoShop 46,Automotive,Bretagne,0.0426,20190918
+M00346,GadgetShop 47,Electronics,Nouvelle-Aquitaine,0.0856,20190618
+M00347,LibraryShop 48,Books,Bretagne,0.047,20210709
+M00348,ActiveWear 49,Sports,Provence-Alpes-Côte d'Azur,0.0572,20220910
+M00349,GadgetShop 50,Electronics,Normandie,0.0653,20190427
+M00350,FashionStore 51,Clothing,Ile-de-France,0.0608,20191208
+M00351,SportHub 52,Sports,Grand Est,0.0333,20191027
+M00352,ActiveWear 53,Sports,Grand Est,0.0749,20181227
+M00353,ClothingHub 54,Clothing,Bretagne,0.0658,20220426
+M00354,StyleShop 55,Clothing,Ile-de-France,0.0938,20190408
+M00355,ReadMore 56,Books,Nouvelle-Aquitaine,0.062,20220419
+M00356,CarParts 57,Automotive,Hauts-de-France,0.0966,20181022
+M00357,MotorHub 58,Automotive,Grand Est,0.0854,20200526
+M00358,ActiveWear 59,Sports,Auvergne-Rhône-Alpes,0.02,20181106
+M00359,SportHub 60,Sports,Hauts-de-France,0.0232,20210619
+M00360,ReadMore 61,Books,Auvergne-Rhône-Alpes,0.072,20181011
+M00361,SportHub 62,Sports,Normandie,0.0692,20210916
+M00362,BookHaven 63,Books,Occitanie,0.0102,20180131
+M00363,TechStore 64,Electronics,Nouvelle-Aquitaine,0.0164,20201002
+M00364,ToyHub 65,Toys,Occitanie,0.0352,20201218
+M00365,HomeCenter 66,Home & Garden,Hauts-de-France,0.0209,20180716
+M00366,GadgetShop 67,Electronics,Auvergne-Rhône-Alpes,0.0587,20190709
+M00367,BeautyWorld 68,Beauty,Normandie,0.0142,20200801
+M00368,TrendyWear 69,Clothing,Pays de la Loire,0.0696,20211215
+M00369,HealthShop 70,Health,Normandie,0.0732,20200629
+M00370,ActiveWear 71,Sports,Occitanie,0.0167,20190607
+M00371,VitalShop 72,Health,Normandie,0.0197,20200729
+M00372,ToyHub 73,Toys,Auvergne-Rhône-Alpes,0.0441,20220309
+M00373,GlowShop 74,Beauty,Nouvelle-Aquitaine,0.0951,20220413
+M00374,PlayShop 75,Toys,Occitanie,0.0831,20181208
+M00375,BeautyCorner 76,Beauty,Auvergne-Rhône-Alpes,0.0921,20180717
+M00376,BookHaven 77,Books,Nouvelle-Aquitaine,0.0758,20220619
+M00377,ReadMore 78,Books,Nouvelle-Aquitaine,0.0445,20190421
+M00378,PlayShop 79,Toys,Occitanie,0.0446,20220125
+M00379,HealthHub 80,Health,Provence-Alpes-Côte d'Azur,0.077,20210709
+M00380,HealthShop 81,Health,Normandie,0.0978,20190819
+M00381,GourmetShop 82,Food,Normandie,0.0227,20201112
+M00382,ClothingHub 83,Clothing,Ile-de-France,0.052,20190501
+M00383,FashionStore 84,Clothing,Grand Est,0.0404,20180311
+M00384,TechStore 85,Electronics,Ile-de-France,0.0984,20201027
+M00385,FoodMart 86,Food,Bretagne,0.0847,20200602
+M00386,TechStore 87,Electronics,Hauts-de-France,0.0565,20220309
+M00387,HealthShop 88,Health,Pays de la Loire,0.0406,20210324
+M00388,HomeStyle 89,Home & Garden,Pays de la Loire,0.0932,20190812
+M00389,HomeStyle 90,Home & Garden,Ile-de-France,0.0352,20190204
+M00390,ActiveWear 91,Sports,Occitanie,0.081,20191211
+M00391,PlayShop 92,Toys,Ile-de-France,0.0845,20211027
+M00392,WellnessStore 93,Health,Normandie,0.0605,20191103
+M00393,TechStore 94,Electronics,Nouvelle-Aquitaine,0.0281,20211005
+M00394,FoodMart 95,Food,Normandie,0.071,20210127
+M00395,ReadMore 96,Books,Normandie,0.017,20220625
+M00396,VitalShop 97,Health,Hauts-de-France,0.0976,20200503
+M00397,ElectroWorld 98,Electronics,Hauts-de-France,0.024,20200303
+M00398,FoodHub 99,Food,Pays de la Loire,0.0898,20180718
+M00399,AutoShop 100,Automotive,Bretagne,0.0706,20200918
+M00400,WellnessStore 1,Health,Provence-Alpes-Côte d'Azur,0.0438,20180228
+M00401,CosmeticHub 2,Beauty,Grand Est,0.0324,20181002
+M00402,HealthHub 3,Health,Grand Est,0.0228,20200417
+M00403,HealthHub 4,Health,Provence-Alpes-Côte d'Azur,0.0751,20210715
+M00404,ToyHub 5,Toys,Hauts-de-France,0.0263,20180131
+M00405,SportHub 6,Sports,Normandie,0.046,20221004
+M00406,CarParts 7,Automotive,Normandie,0.0965,20220402
+M00407,HomeStyle 8,Home & Garden,Provence-Alpes-Côte d'Azur,0.0259,20210613
+M00408,TechStore 9,Electronics,Provence-Alpes-Côte d'Azur,0.0283,20180727
+M00409,CosmeticHub 10,Beauty,Normandie,0.0984,20181021
+M00410,LibraryShop 11,Books,Hauts-de-France,0.0995,20200524
+M00411,ElectroWorld 12,Electronics,Nouvelle-Aquitaine,0.0993,20220107
+M00412,BookHaven 13,Books,Hauts-de-France,0.071,20200920
+M00413,KidsWorld 14,Toys,Occitanie,0.0538,20180411
+M00414,AutoCenter 15,Automotive,Bretagne,0.0513,20191112
+M00415,PlayShop 16,Toys,Pays de la Loire,0.0905,20210127
+M00416,FreshMarket 17,Food,Hauts-de-France,0.0449,20180212
+M00417,CarParts 18,Automotive,Nouvelle-Aquitaine,0.0607,20210922
+M00418,GadgetShop 19,Electronics,Occitanie,0.0378,20211116
+M00419,FreshMarket 20,Food,Auvergne-Rhône-Alpes,0.0861,20201025
+M00420,HomeCenter 21,Home & Garden,Normandie,0.0268,20200624
+M00421,ToyLand 22,Toys,Provence-Alpes-Côte d'Azur,0.0576,20180520
+M00422,GlowShop 23,Beauty,Grand Est,0.0752,20210930
+M00423,FitnessShop 24,Sports,Auvergne-Rhône-Alpes,0.0884,20210418
+M00424,HealthShop 25,Health,Ile-de-France,0.0572,20190611
+M00425,BookCorner 26,Books,Pays de la Loire,0.0307,20200113
+M00426,ElectroWorld 27,Electronics,Ile-de-France,0.0968,20180331
+M00427,VitalShop 28,Health,Ile-de-France,0.0916,20220223
+M00428,FoodMart 29,Food,Occitanie,0.063,20201215
+M00429,BeautyWorld 30,Beauty,Occitanie,0.0701,20201211
+M00430,CosmeticHub 31,Beauty,Ile-de-France,0.0222,20180223
+M00431,ActiveWear 32,Sports,Provence-Alpes-Côte d'Azur,0.0502,20190924
+M00432,PlayShop 33,Toys,Bretagne,0.0474,20220426
+M00433,ClothingHub 34,Clothing,Grand Est,0.0332,20200412
+M00434,HomeCenter 35,Home & Garden,Bretagne,0.0319,20201208
+M00435,KidsWorld 36,Toys,Grand Est,0.0849,20181029
+M00436,GlowShop 37,Beauty,Bretagne,0.0998,20201025
+M00437,BeautyCorner 38,Beauty,Pays de la Loire,0.0313,20200213
+M00438,AutoShop 39,Automotive,Ile-de-France,0.0595,20221118
+M00439,LibraryShop 40,Books,Bretagne,0.0292,20200220
+M00440,VitalShop 41,Health,Nouvelle-Aquitaine,0.0278,20210715
+M00441,BookHaven 42,Books,Provence-Alpes-Côte d'Azur,0.0865,20200529
+M00442,GourmetShop 43,Food,Pays de la Loire,0.0392,20190212
+M00443,StyleShop 44,Clothing,Occitanie,0.012,20200710
+M00444,StyleShop 45,Clothing,Occitanie,0.0206,20190610
+M00445,ToyLand 46,Toys,Normandie,0.0447,20221214
+M00446,GourmetShop 47,Food,Auvergne-Rhône-Alpes,0.0296,20210414
+M00447,BeautyCorner 48,Beauty,Bretagne,0.1,20220728
+M00448,ToyLand 49,Toys,Normandie,0.09,20210813
+M00449,BookCorner 50,Books,Pays de la Loire,0.032,20181119
+M00450,ClothingHub 51,Clothing,Nouvelle-Aquitaine,0.076,20190716
+M00451,GourmetShop 52,Food,Auvergne-Rhône-Alpes,0.0448,20220627
+M00452,SportZone 53,Sports,Pays de la Loire,0.0346,20220222
+M00453,BookHaven 54,Books,Nouvelle-Aquitaine,0.056,20200902
+M00454,GourmetShop 55,Food,Nouvelle-Aquitaine,0.0158,20190827
+M00455,FoodHub 56,Food,Occitanie,0.0488,20181226
+M00456,TechStore 57,Electronics,Bretagne,0.0682,20200706
+M00457,DecorShop 58,Home & Garden,Grand Est,0.046,20180822
+M00458,DigitalHub 59,Electronics,Ile-de-France,0.0692,20220209
+M00459,ElectroWorld 60,Electronics,Hauts-de-France,0.0213,20191228
+M00460,GadgetShop 61,Electronics,Grand Est,0.032,20191009
+M00461,StyleShop 62,Clothing,Grand Est,0.0509,20180125
+M00462,ReadMore 63,Books,Bretagne,0.0592,20220628
+M00463,ElectroWorld 64,Electronics,Grand Est,0.0653,20191217
+M00464,AutoCenter 65,Automotive,Bretagne,0.0825,20180813
+M00465,TechStore 66,Electronics,Normandie,0.0258,20221228
+M00466,DecorShop 67,Home & Garden,Normandie,0.0928,20210119
+M00467,GourmetShop 68,Food,Occitanie,0.0557,20180524
+M00468,AutoShop 69,Automotive,Provence-Alpes-Côte d'Azur,0.0186,20191004
+M00469,MotorHub 70,Automotive,Auvergne-Rhône-Alpes,0.038,20180718
+M00470,ToyHub 71,Toys,Pays de la Loire,0.0966,20190508
+M00471,ClothingHub 72,Clothing,Ile-de-France,0.0863,20180831
+M00472,StyleShop 73,Clothing,Grand Est,0.0339,20200912
+M00473,FitnessShop 74,Sports,Grand Est,0.0301,20210629
+M00474,DecorShop 75,Home & Garden,Bretagne,0.0324,20190502
+M00475,BeautyCorner 76,Beauty,Auvergne-Rhône-Alpes,0.0587,20210422
+M00476,HealthHub 77,Health,Grand Est,0.043,20220628
+M00477,AutoShop 78,Automotive,Grand Est,0.0568,20210206
+M00478,SportHub 79,Sports,Pays de la Loire,0.037,20190704
+M00479,GardenWorld 80,Home & Garden,Nouvelle-Aquitaine,0.0947,20190320
+M00480,HomeCenter 81,Home & Garden,Normandie,0.0106,20220403
+M00481,AutoCenter 82,Automotive,Auvergne-Rhône-Alpes,0.0588,20210326
+M00482,DecorShop 83,Home & Garden,Occitanie,0.0316,20200503
+M00483,CarParts 84,Automotive,Ile-de-France,0.0249,20200114
+M00484,HomeStyle 85,Home & Garden,Grand Est,0.0541,20181104
+M00485,FreshMarket 86,Food,Nouvelle-Aquitaine,0.0914,20180304
+M00486,PlayShop 87,Toys,Occitanie,0.0446,20200215
+M00487,HealthShop 88,Health,Auvergne-Rhône-Alpes,0.0806,20180124
+M00488,KidsWorld 89,Toys,Pays de la Loire,0.0482,20221005
+M00489,HealthHub 90,Health,Auvergne-Rhône-Alpes,0.0178,20180402
+M00490,HealthHub 91,Health,Hauts-de-France,0.0288,20201101
+M00491,ToyLand 92,Toys,Ile-de-France,0.0255,20210118
+M00492,CarParts 93,Automotive,Pays de la Loire,0.0926,20210311
+M00493,HomeStyle 94,Home & Garden,Normandie,0.049,20200331
+M00494,ClothingHub 95,Clothing,Normandie,0.0249,20220525
+M00495,BookHaven 96,Books,Bretagne,0.025,20181230
+M00496,ReadMore 97,Books,Bretagne,0.0876,20211107
+M00497,ClothingHub 98,Clothing,Nouvelle-Aquitaine,0.0842,20191028
+M00498,KidsWorld 99,Toys,Grand Est,0.0864,20221010
+M00499,AutoCenter 100,Automotive,Ile-de-France,0.0548,20190902
+M00500,TrendyWear 1,Clothing,Pays de la Loire,0.0422,20211028
