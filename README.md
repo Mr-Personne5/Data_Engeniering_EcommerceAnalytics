@@ -1,5 +1,7 @@
 # EcommerceAnalytics
 
+Dépôt : https://github.com/Mr-Personne5/Data_Engeniering_EcommerceAnalytics
+
 Pipeline Spark/Scala d'analyse de données e-commerce : ingestion multi-format
 (CSV, JSON, Parquet), validation, enrichissement temporel (UDF + fenêtres
 glissantes), KPI marchands et analyse de cohortes de clients.
@@ -54,6 +56,13 @@ Les case classes correspondantes (`Transaction`, `User`, `Product`,
   Ils sont déjà fournis dans `tools/hadoop-win/bin/` et configurés dans
   `build.sbt` (variables d'environnement scopées au projet, rien de modifié
   globalement sur la machine) — aucune action requise.
+
+## Récupérer le projet
+
+```bash
+git clone https://github.com/Mr-Personne5/Data_Engeniering_EcommerceAnalytics.git
+cd Data_Engeniering_EcommerceAnalytics
+```
 
 ## Compilation et tests
 
@@ -123,5 +132,5 @@ EcommerceAnalytics/
 - [x] Partie 3 — UDF `extractTimeFeatures`, `enrichTransactionData`, fenêtres glissantes
 - [x] Partie 4 — Rapport par marchand et analyse de cohortes
 - [x] Partie 5 — Optimisations Spark (cache/persist/unpersist, broadcast)
-- [ ] Partie 6 — `MainApp` (orchestration complète, sauvegarde des résultats)
-- [ ] Partie 7 — Configuration externalisée complète (`application.conf`)
+- [x] Partie 6 — `MainApp` (orchestration complète, sauvegarde des résultats)
+- [x] Partie 7 — Configuration externalisée complète (`application.conf`)

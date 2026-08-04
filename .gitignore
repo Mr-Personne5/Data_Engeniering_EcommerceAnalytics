@@ -4,5 +4,6 @@ project/project/
 .bloop/
 .metals/
 .bsp/
+.idea/
 output/
 *.class
